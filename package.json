@@ -1,0 +1,9 @@
+{
+  "name": "v4-runner",
+  "version": "1.0.0",
+  "description": "Dependencies for V4 GitHub Actions Runner Bootstrapper",
+  "private": true,
+  "dependencies": {
+    "mongodb": "^7.5.0"
+  }
+}
